@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="wind_speed">%d km/h</string>
+    <string name="precipitation">%d mm</string>
+    <string name="upDownTemp">%d°</string>
+
+</resources>
